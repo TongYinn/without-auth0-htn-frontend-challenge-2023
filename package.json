@@ -1,8 +1,9 @@
 {
+  "homepage": "http://tongyinn.github.io/without-auth0-htn-frontend-challenge-2023",
   "name": "without-auth0-htn-frontend-challenge-2023",
   "version": "0.1.0",
   "private": false,
-  "dependencies": {
+  "dependencies": { 
     "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.5",
@@ -22,6 +23,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -43,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
