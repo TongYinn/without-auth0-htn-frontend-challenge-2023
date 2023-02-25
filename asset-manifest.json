@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/without-auth0-htn-frontend-challenge-2023/static/css/main.257338be.css",
-    "main.js": "/without-auth0-htn-frontend-challenge-2023/static/js/main.747aa824.js",
+    "main.js": "/without-auth0-htn-frontend-challenge-2023/static/js/main.e5269972.js",
     "static/js/787.2b5ab67f.chunk.js": "/without-auth0-htn-frontend-challenge-2023/static/js/787.2b5ab67f.chunk.js",
     "static/media/workshop.jpg": "/without-auth0-htn-frontend-challenge-2023/static/media/workshop.e8f7b8f5d8fe8265c754.jpg",
     "static/media/tech_talk.jpg": "/without-auth0-htn-frontend-challenge-2023/static/media/tech_talk.defadcd852d6a751be36.jpg",
     "static/media/activity.jpg": "/without-auth0-htn-frontend-challenge-2023/static/media/activity.6b58bb76aba9d2a5587f.jpg",
     "index.html": "/without-auth0-htn-frontend-challenge-2023/index.html",
     "main.257338be.css.map": "/without-auth0-htn-frontend-challenge-2023/static/css/main.257338be.css.map",
-    "main.747aa824.js.map": "/without-auth0-htn-frontend-challenge-2023/static/js/main.747aa824.js.map",
+    "main.e5269972.js.map": "/without-auth0-htn-frontend-challenge-2023/static/js/main.e5269972.js.map",
     "787.2b5ab67f.chunk.js.map": "/without-auth0-htn-frontend-challenge-2023/static/js/787.2b5ab67f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.257338be.css",
-    "static/js/main.747aa824.js"
+    "static/js/main.e5269972.js"
   ]
 }
